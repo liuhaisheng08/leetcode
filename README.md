@@ -1,2 +1,2 @@
 # leetcode
-Leetcode using go
+Leetcode using Golang
